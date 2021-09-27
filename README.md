@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohammedHassan07
 - 👀 I’m interested in Open source contribution
-- 🌱 I’m currently learning Android application development in using java.
+- 🌱 I’m currently learning Android application development using java.
 - 📫 Email: mhassancs260@gmial.com
 
 <!---
