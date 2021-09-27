@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohammedHassan07
 - 👀 I’m interested in Open source contribution
-- 🌱 I’m currently learning Data Structure and algorithm in java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Android application development in using java.
 - 📫 Email: mhassancs260@gmial.com
 
 <!---
