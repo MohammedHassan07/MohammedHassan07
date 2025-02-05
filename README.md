@@ -5,9 +5,9 @@ Hello! I'm Mohammed Hassan, a passionate software developer from India. I love c
 ## 🚀 About Me
 
 - 🔭 I’m currently working on Hospital Managment Project
-- 🌱 I’m learning [NextJs, Machine Leraning, Deep Learning, AI, etc.]
-- 💬 Ask me about [MERN stack, Deep Learning, etc.]
-- 📫 How to reach me: [mhassancs260@gmail.conm]
+- 🌱 I’m learning NextJs, Machine Leraning, Deep Learning, AI, etc.
+- 💬 Ask me about MERN stack, Deep Learning, etc.
+- 📫 How to reach me: mhassancs260@gmail.conm
 
 ## 👨‍💻 My Tech Stack
 
@@ -43,9 +43,6 @@ managing vendor products, including image and price updates. Enhanced security w
 verification. The app allows users to share products from street vendors, providing a free advertising platform
 to boost visibility and sales, with a responsive mobile interface built using Flutter.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedHassan07&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 📄 Resume
 
