@@ -25,6 +25,14 @@ Hello! I'm Mohammed Hassan, a passionate software developer from India. I love c
 
 Here are some of the projects I’ve worked on:
 
+
+### [iMed](https://github.com/MohammedHassan07/iMed)
+Developed a pharmacy management application with offline functionality using React.js, Tailwind CSS, Electron, and SQLite. The system includes a comprehensive inventory management module that tracks stock levels, identifies nearly expiring medicines, and flags expired ones for removal. The project demonstrates strong skills in frontend development, local database integration, and version control using Git and GitHub.
+
+### [DSCart](https://github.com/MohammedHassan07/DSCart)
+DS Cart is a cross-platform e-commerce application designed to list and manage products like food items and clothes.
+Users can browse the catalog and place orders in real time. Admins are instantly notified of new orders and can process them efficiently using a real-time dashboard.
+
 ### [Tech Blog](https://github.com/MohammedHassan07/TechBlog)
 Created a blogging platform with an MVC architecture featuring secure authentication. It includes an admin
 panel for easy management of blog posts, allowing administrators to add and delete content, and offers a
