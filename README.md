@@ -4,9 +4,13 @@ Hello! I'm Mohammed Hassan, a passionate software developer from India. I love c
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Hospital Managment Project
-- 🌱 I’m learning NextJs, Machine Leraning, Deep Learning, AI, etc.
-- 💬 Ask me about MERN stack, Deep Learning, etc.
+- Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- Strong knowledge of JavaScript and RESTful API development  
+- Experienced with database management using MongoDB and MySQL  
+- Familiar with Machine Learning, Deep Learning, and Artificial Intelligence concepts  
+- Hands-on experience with version control using Git and GitHub  
+- Good understanding of backend frameworks and API integrations  
+- Interested in building scalable web applications and intelligent systems  
 - 📫 How to reach me: mhassancs260@gmail.conm
 
 ## 👨‍💻 My Tech Stack
